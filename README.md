@@ -1,7 +1,7 @@
 # Hi, I'm Pokpong
 I'm interested in
 - Web Development
-- Software Development <br/> - 🌱 I’m currently learning Docker & Kubernetes
+- Software Development <br/><br/>🌱 I’m currently learning Docker🐳 & Kubernetes☸️
 <!--
 **davepokpong/davepokpong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
