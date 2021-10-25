@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hi, I'm Pokpong
+I'm interested in
+- Web Development
+- Software Development
+- 🌱 I’m currently learning ... Docker & Kubernetes
 <!--
 **davepokpong/davepokpong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact) -->
+
+![Pokpong's GitHub stats](https://github-readme-stats.vercel.app/api?username=davepokpong&show_icons=true&theme=radical)
